@@ -42,8 +42,6 @@ An AI-powered PDF assistant that allows users to ask questions and get accurate,
 ## 📦 Installation
 
 ### 1. Clone the repository
-git clone https://github.com/vishalmalik18/Devpost_task.git
-cd your-repo-name
 
 ### 2. Create virtual environment
 python -m venv myenv  
