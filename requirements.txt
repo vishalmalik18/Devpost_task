@@ -1,0 +1,12 @@
+google-generativeai
+nltk
+regex
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+fastapi
+pydantic
+uvicorn
